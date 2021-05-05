@@ -47,21 +47,21 @@
             "sites": [
                 {
                     "name": "GitHub",
-                    "link": "https://github.com/hasbai/navipage/tree/0.1.0",
+                    "link": "https://github.com/",
                     "img": "img/github.svg",
-                    "description": "本项目开源地址"
+                    "description": "全球最大同性交友网站"
                 },
                 {
-                    "name": "时天琪视频站",
+                    "name": "时天琪的视频站",
                     "link": "https://media.salve.cf/",
                     "img": "img/media.svg",
                     "description": "如有雷同，纯属巧合"
                 },
                 {
-                    "name": "时天琪的主页",
-                    "link": "https://www.salve.cf/",
+                    "name": "李翰昶的旧版主页",
+                    "link": "https://homepage.playmarxcards.online/",
                     "img": "img/navi.svg",
-                    "description": "时天琪的导航页"
+                    "description": "太丑了，弃用了"
                 }
             ]
         }
